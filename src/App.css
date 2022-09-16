@@ -1,0 +1,53 @@
+body {
+  margin: 0%;
+  background-color: azure;
+}
+
+.navbar {
+  color: white;
+  background-color: #4167b2;
+  padding: 10px;
+}
+
+.Input {
+  border: 1px solid rgba(0, 0, 0, 0.315);
+  width: 40em;
+  margin: auto;
+  padding: 1em;
+  margin-top: 1em;
+  border-radius: 0.2em;
+}
+
+.Input__header {
+  font-weight: bold;
+  font-size: larger;
+  margin-bottom: 0.5em;
+}
+
+.Input__field {
+  width: 40em;
+  padding: 1em;
+}
+
+.Post {
+  border: 1px solid rgba(0, 0, 0, 0.315);
+  width: 40em;
+  margin: auto;
+  padding: 1em;
+  margin-top: 1em;
+  border-radius: 0.2em;
+}
+
+.Post__image {
+  width: 40em;
+  margin-top: 1em;
+}
+
+.Post__delete {
+  float: right;
+  cursor: pointer;
+  padding: 0;
+  background: none;
+  border: none;
+  font-weight: bold;
+}
